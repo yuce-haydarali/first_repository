@@ -1,1 +1,1 @@
-print("git kullanımı")
+print("git kullanımı")#yorum satırıs
